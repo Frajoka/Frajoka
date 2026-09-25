@@ -1,5 +1,14 @@
-## Hi there 👋
+## Olá 👋
 
+Sou Francisco José, Estou atualmente graduando do **Interdisciplinar em Ciência e Tecnologia (C&T)** pela **Universidade Federal Rural do Semi-Árido (UFERSA)**.
+
+Tenho grande interesse em Ciências Exatas, Naturais e Tecnologias, com a capacidade de aprender rapidamente através do autodidatismo. Posso desenvolver em múltiplas *stacks*, incluindo:
+- Python3
+- HTML/CSS/JS
+- Node.js/Express
+- C/Assembly
+
+Sempre Aprendendo
 <!--
 **Frajoka/Frajoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
